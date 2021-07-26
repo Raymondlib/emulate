@@ -49,6 +49,7 @@
 #include <rte_sctp.h>
 #include <rte_flow.h>
 #include <rte_net.h>
+//ces
 static int64_t loss_random(const char *loss_rate);
 static int64_t loss_random_a(double loss_rate);
 static bool loss_event(void);
